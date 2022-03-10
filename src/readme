@@ -1,0 +1,19 @@
+
+Progress Bar Exercise:
+
+Create a progress bar that takes in a 
+seconds input and starts filling upon clicking a 
+“Start” button. The progress bar should take the number of
+ supplied seconds to fill and should do so at a constant rate. 
+ Once filled, the progress bar should be able to handle restarting 
+ the fill process if a user clicks “Start” again (with possibly a 
+ different fill time).
+
+Feel free to use any outside libraries you need - 
+do not hesitate to look up documentation or to ask your 
+interviewers questions about the exercise. 
+Be sure to explain your thought process as you 
+go through the exercise - showing your interviewers how you think 
+is as important as getting the right answer. 
+Refer to the provided screenshot for a general idea of what the
+ progress bar should look like.
